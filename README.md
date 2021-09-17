@@ -1,2 +1,2 @@
-# practica1_fdp
-proyecto 1
+# reporte practica1_fdp
+practica 1
